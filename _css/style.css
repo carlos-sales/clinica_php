@@ -1,0 +1,21 @@
+.jumbotron{
+	padding-bottom: .5rem;
+}
+
+.jumbotron h1{
+	text-align: center;
+	margin: auto auto 20px auto;
+}
+
+.float-sm-right{
+	margin: 2px auto 5px 2px;
+}
+
+.btn-menu{
+	margin-top: 5px;
+	margin-bottom: 20px;
+}
+
+.hide{
+	display: none;
+}
